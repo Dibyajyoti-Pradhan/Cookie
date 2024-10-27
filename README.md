@@ -134,3 +134,13 @@ To set up and run the Cookie Log Parser, follow these steps:
 
 1. Maven
 2. JUnit
+
+## Screenshots
+
+Here are some screenshots that demonstrate the functionality of the Cookie Log Parser:
+
+![Screenshot 1](Run1.png)
+
+![Screenshot 2](Run2.png)
+
+![Screenshot 3](Run3.png)
